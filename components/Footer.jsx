@@ -11,7 +11,7 @@ const Footer = () => {
             </div>
             <div className="hidden md:float-left md:contents">
                 <span className='md:float-right mt-2 align-middle text-white ml-4 cursor-pointer'>
-                    &#169;  &lt; client name &gt;, &lt; department &gt;, Federal University of Technology Minna
+                    &#169;  Adeshina Rofiat, Computer Science department, Federal University of Technology Minna
                 </span>
             </div>
         </div>
